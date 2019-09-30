@@ -49,10 +49,17 @@
             // 
             // textBox3
             // 
+<<<<<<< HEAD
             this.textBox3.Location = new System.Drawing.Point(36, 122);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(244, 22);
             this.textBox3.TabIndex = 0;
+=======
+            this.textBox3.Location = new System.Drawing.Point(36, 133);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(243, 22);
+            this.textBox3.TabIndex = 1;
+>>>>>>> feature-cal-1
             // 
             // Form1
             // 
